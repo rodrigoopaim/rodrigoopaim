@@ -1,5 +1,5 @@
 - 👋 Hey, I'm Rodrigo Paim!
-- 📚 I'm learning about programs (Studying Computer Science).
+- 📚 I'm learning programming (Studying Computer Science).
 - 🦎 Por aí...
 - 🌎 I wanna know the world!
 - 💻 I will be a great developer in my future!! :D
